@@ -51,7 +51,7 @@ nav[data-type="scrollbar"] li {
   text-align: center;
   text-transform: uppercase;
   width: 4.5rem;
-  height: 3.45%; /* 100% / 29 items */
+  height: 3.44%; /* 100% / 29 items */
 }
 
 nav[data-type="scrollbar"] li a {
